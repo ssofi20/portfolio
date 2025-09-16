@@ -1,7 +1,6 @@
 :root{
     --text-color: #1a1c20;
-    --link-color: #eeaeed;
-    --text-color-pink: #c786c6;
+    --link-color: #c786c6;
     --background-color: #eeeff1;
 }
 
@@ -37,7 +36,7 @@ nav{
 }
 
 nav .left a{
-    color: var(--text-color-pink);
+    color: var(--link-color);
     font-size: 30px;
     font-weight: 600;
 }
